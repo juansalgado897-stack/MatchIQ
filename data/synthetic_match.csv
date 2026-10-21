@@ -1,0 +1,392 @@
+event_id,minute,second,team,event_type,x,y,xg
+1,1,41,Harbor City FC,pass,32.4,93.1,0.0
+3,1,56,Harbor City FC,pass,86.0,90.7,0.0
+2,1,59,Northbridge United,pass,19.9,29.3,0.0
+4,2,18,Harbor City FC,tackle,26.8,78.9,0.0
+6,2,20,Northbridge United,carry,11.1,89.0,0.0
+5,2,45,Harbor City FC,carry,89.5,2.9,0.0
+8,3,3,Harbor City FC,interception,22.3,8.9,0.0
+9,3,27,Harbor City FC,carry,0.5,99.5,0.0
+7,3,58,Harbor City FC,pass,34.9,90.0,0.0
+12,4,3,Northbridge United,interception,2.0,44.5,0.0
+15,4,19,Harbor City FC,carry,73.8,41.3,0.0
+10,4,24,Northbridge United,pass,79.3,83.9,0.0
+13,4,25,Northbridge United,tackle,9.5,54.3,0.0
+11,4,36,Northbridge United,carry,17.8,14.0,0.0
+14,4,59,Harbor City FC,carry,29.2,45.5,0.0
+16,5,10,Northbridge United,tackle,55.6,60.6,0.0
+18,5,36,Harbor City FC,carry,22.4,93.2,0.0
+17,5,43,Harbor City FC,carry,51.8,56.9,0.0
+20,6,0,Northbridge United,pass,66.9,97.9,0.0
+19,6,22,Northbridge United,interception,3.2,97.3,0.0
+23,6,38,Northbridge United,carry,88.9,44.8,0.0
+21,6,43,Harbor City FC,foul,78.0,38.1,0.0
+22,6,51,Harbor City FC,pass,45.9,23.7,0.0
+27,7,1,Northbridge United,carry,35.6,80.3,0.0
+24,7,5,Northbridge United,tackle,54.3,28.9,0.0
+25,7,14,Harbor City FC,carry,4.8,55.1,0.0
+26,7,19,Harbor City FC,pass,67.0,81.9,0.0
+28,7,54,Northbridge United,interception,0.7,89.1,0.0
+30,8,12,Harbor City FC,pass,4.7,42.4,0.0
+31,8,45,Northbridge United,shot,84.5,98.3,0.34
+32,8,51,Harbor City FC,carry,77.1,54.7,0.0
+29,8,56,Northbridge United,pass,69.6,3.0,0.0
+34,9,36,Northbridge United,shot,7.9,1.4,0.218
+35,9,47,Northbridge United,foul,27.2,37.9,0.0
+33,9,49,Harbor City FC,carry,9.4,49.9,0.0
+39,10,0,Harbor City FC,interception,74.7,98.4,0.0
+36,10,2,Harbor City FC,pass,96.5,53.9,0.0
+40,10,2,Harbor City FC,pass,17.4,42.6,0.0
+37,10,5,Northbridge United,pass,72.2,49.2,0.0
+41,10,39,Northbridge United,carry,71.0,26.5,0.0
+38,10,42,Northbridge United,carry,60.8,55.5,0.0
+44,11,1,Harbor City FC,pass,60.4,79.8,0.0
+42,11,20,Harbor City FC,pass,66.1,47.1,0.0
+43,11,53,Harbor City FC,foul,28.9,4.4,0.0
+47,12,24,Harbor City FC,interception,58.1,63.5,0.0
+46,12,36,Harbor City FC,shot,12.7,68.9,0.166
+45,12,47,Northbridge United,pass,96.2,88.0,0.0
+49,12,53,Harbor City FC,pass,96.3,5.1,0.0
+48,12,58,Northbridge United,tackle,86.5,3.6,0.0
+50,13,16,Northbridge United,pass,58.3,71.5,0.0
+55,13,21,Northbridge United,carry,66.1,17.5,0.0
+54,13,31,Northbridge United,pass,34.4,94.3,0.0
+53,13,39,Harbor City FC,pass,31.7,50.3,0.0
+52,13,52,Northbridge United,tackle,13.3,36.3,0.0
+51,13,56,Northbridge United,carry,82.9,66.1,0.0
+56,14,3,Harbor City FC,foul,63.7,87.3,0.0
+60,14,16,Harbor City FC,tackle,23.5,80.9,0.0
+61,14,35,Northbridge United,pass,90.1,85.3,0.0
+58,14,37,Harbor City FC,carry,94.1,50.0,0.0
+57,14,40,Harbor City FC,tackle,68.0,11.1,0.0
+59,14,42,Harbor City FC,tackle,73.3,11.6,0.0
+63,15,1,Harbor City FC,tackle,56.4,93.3,0.0
+65,15,2,Harbor City FC,pass,74.2,59.0,0.0
+64,15,6,Northbridge United,carry,86.1,11.9,0.0
+66,15,36,Northbridge United,tackle,21.7,82.9,0.0
+67,15,43,Harbor City FC,carry,35.2,95.4,0.0
+62,15,54,Harbor City FC,pass,80.6,96.8,0.0
+69,16,2,Harbor City FC,pass,14.1,5.3,0.0
+70,16,10,Northbridge United,foul,90.5,58.3,0.0
+68,16,22,Harbor City FC,carry,75.7,57.9,0.0
+73,17,24,Harbor City FC,foul,8.2,85.7,0.0
+75,17,38,Harbor City FC,shot,1.6,33.8,0.185
+74,17,39,Northbridge United,tackle,86.0,40.9,0.0
+72,17,47,Northbridge United,pass,9.0,82.5,0.0
+71,17,55,Harbor City FC,carry,91.1,48.5,0.0
+78,18,8,Harbor City FC,pass,48.5,88.7,0.0
+79,18,9,Harbor City FC,pass,64.6,58.4,0.0
+76,18,30,Harbor City FC,carry,84.4,3.6,0.0
+77,18,43,Northbridge United,pass,2.3,73.7,0.0
+81,19,27,Harbor City FC,interception,84.2,33.9,0.0
+82,19,30,Harbor City FC,pass,74.8,58.7,0.0
+80,19,44,Northbridge United,pass,60.9,53.9,0.0
+83,20,10,Northbridge United,pass,98.0,82.8,0.0
+86,20,16,Harbor City FC,tackle,83.7,57.0,0.0
+84,20,34,Harbor City FC,carry,72.9,67.3,0.0
+88,20,48,Harbor City FC,pass,67.9,96.3,0.0
+85,20,55,Northbridge United,pass,21.5,51.9,0.0
+87,20,58,Northbridge United,pass,54.5,20.7,0.0
+90,21,10,Harbor City FC,carry,38.0,41.6,0.0
+91,21,18,Harbor City FC,pass,62.1,56.7,0.0
+89,21,40,Harbor City FC,pass,83.6,13.3,0.0
+93,22,15,Northbridge United,pass,29.8,74.7,0.0
+95,22,32,Harbor City FC,pass,83.0,14.9,0.0
+94,22,37,Northbridge United,pass,46.9,58.1,0.0
+97,22,47,Northbridge United,pass,17.3,73.6,0.0
+92,22,49,Northbridge United,carry,28.2,86.8,0.0
+96,22,51,Harbor City FC,pass,17.7,37.6,0.0
+99,23,4,Harbor City FC,carry,32.1,16.8,0.0
+102,23,13,Northbridge United,tackle,32.3,51.4,0.0
+100,23,16,Northbridge United,carry,73.5,52.9,0.0
+98,23,38,Harbor City FC,pass,13.9,21.9,0.0
+101,23,44,Northbridge United,shot,91.6,94.0,0.259
+107,24,11,Northbridge United,pass,16.8,56.2,0.0
+106,24,22,Harbor City FC,interception,13.1,75.1,0.0
+103,24,29,Harbor City FC,tackle,51.8,53.5,0.0
+108,24,39,Northbridge United,pass,95.0,33.7,0.0
+105,24,45,Northbridge United,carry,81.8,45.7,0.0
+104,24,52,Northbridge United,pass,14.8,89.0,0.0
+111,25,9,Northbridge United,shot,84.8,94.5,0.336
+109,25,48,Northbridge United,pass,26.1,46.7,0.0
+110,25,54,Harbor City FC,interception,64.0,88.5,0.0
+116,26,15,Northbridge United,tackle,95.3,34.7,0.0
+113,26,28,Harbor City FC,pass,33.3,18.6,0.0
+115,26,35,Harbor City FC,carry,64.5,14.3,0.0
+112,26,50,Northbridge United,pass,90.4,2.0,0.0
+114,26,50,Harbor City FC,tackle,85.3,26.6,0.0
+118,27,1,Northbridge United,interception,29.0,59.3,0.0
+120,27,3,Harbor City FC,pass,65.3,88.7,0.0
+119,27,7,Harbor City FC,pass,25.9,2.3,0.0
+117,27,19,Northbridge United,interception,2.0,0.7,0.0
+121,28,1,Northbridge United,pass,40.7,55.6,0.0
+122,28,27,Northbridge United,pass,85.2,8.3,0.0
+123,28,55,Harbor City FC,carry,17.6,26.5,0.0
+124,28,58,Harbor City FC,pass,73.5,87.7,0.0
+125,29,1,Harbor City FC,pass,4.6,37.7,0.0
+126,29,3,Northbridge United,pass,55.1,90.9,0.0
+127,29,35,Northbridge United,tackle,47.5,72.0,0.0
+131,30,15,Harbor City FC,pass,77.9,44.7,0.0
+128,30,29,Northbridge United,shot,41.7,91.1,0.176
+129,30,31,Harbor City FC,pass,21.8,59.8,0.0
+130,30,41,Northbridge United,pass,63.8,99.3,0.0
+137,31,4,Harbor City FC,interception,59.9,71.2,0.0
+132,31,20,Northbridge United,interception,77.5,81.2,0.0
+134,31,34,Harbor City FC,pass,49.9,57.8,0.0
+133,31,36,Northbridge United,pass,95.9,1.0,0.0
+135,31,40,Harbor City FC,carry,71.1,39.7,0.0
+136,31,42,Northbridge United,pass,32.7,1.4,0.0
+139,32,20,Northbridge United,tackle,9.5,13.4,0.0
+140,32,34,Harbor City FC,pass,21.2,9.1,0.0
+138,32,37,Harbor City FC,pass,55.6,58.0,0.0
+143,33,1,Northbridge United,pass,10.9,43.6,0.0
+145,33,9,Northbridge United,pass,10.4,4.3,0.0
+142,33,53,Harbor City FC,interception,44.9,28.6,0.0
+141,33,58,Northbridge United,pass,92.6,28.7,0.0
+144,33,59,Harbor City FC,pass,54.5,49.8,0.0
+147,34,1,Northbridge United,pass,42.2,40.3,0.0
+148,34,1,Northbridge United,carry,75.0,97.6,0.0
+146,34,21,Northbridge United,carry,32.2,98.9,0.0
+150,35,7,Harbor City FC,shot,56.5,6.0,0.069
+151,35,32,Northbridge United,carry,14.2,86.7,0.0
+149,35,58,Harbor City FC,pass,43.3,5.0,0.0
+153,36,1,Harbor City FC,pass,85.3,58.0,0.0
+155,36,4,Northbridge United,shot,45.3,45.7,0.026
+154,36,5,Harbor City FC,pass,41.6,83.0,0.0
+152,36,10,Harbor City FC,pass,78.7,38.9,0.0
+156,36,17,Harbor City FC,carry,31.5,59.7,0.0
+159,37,8,Harbor City FC,tackle,52.9,69.4,0.0
+157,37,36,Northbridge United,pass,44.3,73.3,0.0
+161,37,40,Northbridge United,interception,35.3,81.5,0.0
+158,37,46,Northbridge United,pass,30.6,11.4,0.0
+160,37,46,Northbridge United,pass,46.7,68.7,0.0
+164,38,12,Northbridge United,pass,42.9,74.9,0.0
+165,38,18,Harbor City FC,pass,0.4,77.2,0.0
+163,38,41,Harbor City FC,tackle,22.7,28.3,0.0
+162,38,42,Northbridge United,tackle,94.3,17.5,0.0
+166,39,2,Northbridge United,pass,52.8,43.7,0.0
+168,39,35,Northbridge United,carry,12.8,8.5,0.0
+167,39,49,Harbor City FC,pass,52.8,86.1,0.0
+170,40,15,Northbridge United,pass,80.8,55.5,0.0
+173,40,23,Northbridge United,tackle,78.6,76.9,0.0
+172,40,36,Harbor City FC,pass,76.4,53.2,0.0
+169,40,52,Northbridge United,pass,59.8,40.2,0.0
+171,40,55,Northbridge United,pass,41.5,89.5,0.0
+174,41,1,Harbor City FC,carry,52.9,40.3,0.0
+178,41,12,Northbridge United,carry,18.1,10.9,0.0
+175,41,20,Harbor City FC,pass,47.9,88.3,0.0
+177,41,39,Northbridge United,carry,35.6,14.7,0.0
+176,41,58,Harbor City FC,pass,3.2,18.0,0.0
+182,42,2,Northbridge United,interception,49.2,39.2,0.0
+183,42,7,Harbor City FC,foul,11.0,5.1,0.0
+179,42,15,Harbor City FC,pass,11.6,79.2,0.0
+180,42,46,Harbor City FC,carry,39.4,16.8,0.0
+181,42,54,Harbor City FC,foul,0.3,48.0,0.0
+184,43,9,Northbridge United,pass,37.3,24.6,0.0
+186,43,13,Harbor City FC,pass,32.2,14.9,0.0
+185,43,15,Harbor City FC,interception,77.4,82.3,0.0
+189,44,6,Harbor City FC,tackle,6.4,81.4,0.0
+191,44,8,Harbor City FC,pass,6.3,23.6,0.0
+188,44,24,Harbor City FC,carry,12.5,35.9,0.0
+187,44,37,Harbor City FC,carry,10.8,5.9,0.0
+190,44,38,Harbor City FC,carry,39.0,61.7,0.0
+196,45,9,Northbridge United,interception,14.0,25.9,0.0
+193,45,19,Harbor City FC,pass,73.4,52.5,0.0
+192,45,29,Northbridge United,pass,10.8,8.1,0.0
+194,45,43,Northbridge United,pass,51.4,46.8,0.0
+195,45,59,Harbor City FC,pass,18.6,58.1,0.0
+198,46,5,Harbor City FC,carry,31.3,70.6,0.0
+197,46,33,Northbridge United,pass,86.7,58.0,0.0
+199,46,44,Harbor City FC,pass,86.7,13.4,0.0
+200,47,1,Harbor City FC,pass,89.9,94.1,0.0
+204,47,29,Northbridge United,pass,16.8,85.1,0.0
+201,47,32,Northbridge United,pass,45.6,63.2,0.0
+203,47,35,Harbor City FC,carry,92.0,40.8,0.0
+202,47,37,Harbor City FC,carry,63.6,29.5,0.0
+206,48,3,Northbridge United,pass,87.2,63.0,0.0
+205,48,46,Northbridge United,pass,96.3,28.1,0.0
+207,48,48,Harbor City FC,shot,33.0,48.1,0.082
+208,49,35,Harbor City FC,pass,23.8,27.0,0.0
+210,49,57,Harbor City FC,carry,64.1,64.7,0.0
+209,49,59,Harbor City FC,pass,40.8,76.6,0.0
+211,50,6,Harbor City FC,shot,48.4,6.6,0.164
+214,50,27,Northbridge United,carry,29.9,76.2,0.0
+213,50,31,Harbor City FC,tackle,82.6,88.6,0.0
+212,50,41,Harbor City FC,pass,61.5,44.4,0.0
+215,50,53,Harbor City FC,pass,58.1,19.1,0.0
+218,51,3,Harbor City FC,interception,68.3,94.0,0.0
+216,51,5,Northbridge United,pass,79.0,52.2,0.0
+217,51,5,Northbridge United,tackle,52.7,24.1,0.0
+219,52,17,Harbor City FC,tackle,44.9,97.8,0.0
+221,52,23,Harbor City FC,pass,91.2,99.1,0.0
+220,52,24,Northbridge United,pass,35.2,86.2,0.0
+222,52,37,Northbridge United,pass,82.2,29.7,0.0
+223,52,49,Northbridge United,tackle,56.1,66.2,0.0
+226,53,4,Harbor City FC,carry,66.7,40.7,0.0
+229,53,8,Harbor City FC,pass,4.5,39.1,0.0
+227,53,13,Harbor City FC,tackle,88.9,88.3,0.0
+224,53,24,Northbridge United,shot,43.5,70.2,0.087
+228,53,40,Harbor City FC,tackle,17.1,37.2,0.0
+225,53,47,Northbridge United,carry,31.5,45.5,0.0
+232,54,11,Northbridge United,shot,23.1,80.2,0.281
+230,54,18,Harbor City FC,pass,63.5,2.8,0.0
+231,54,51,Harbor City FC,pass,52.6,99.1,0.0
+235,55,3,Northbridge United,pass,9.3,95.8,0.0
+234,55,32,Northbridge United,interception,0.4,1.1,0.0
+233,55,41,Harbor City FC,foul,66.3,80.6,0.0
+237,56,6,Harbor City FC,tackle,70.9,73.4,0.0
+238,56,22,Harbor City FC,pass,77.8,72.6,0.0
+236,56,31,Northbridge United,carry,81.0,25.5,0.0
+239,56,51,Harbor City FC,pass,81.3,98.9,0.0
+240,57,8,Harbor City FC,pass,6.2,5.8,0.0
+241,57,38,Harbor City FC,carry,97.5,33.2,0.0
+242,57,46,Northbridge United,pass,20.6,52.4,0.0
+244,58,22,Northbridge United,foul,79.8,30.2,0.0
+245,58,26,Harbor City FC,carry,91.7,63.8,0.0
+247,58,30,Northbridge United,pass,76.7,28.4,0.0
+243,58,36,Harbor City FC,tackle,88.1,98.6,0.0
+246,58,41,Harbor City FC,carry,58.7,86.3,0.0
+248,58,54,Harbor City FC,carry,72.3,73.4,0.0
+251,59,23,Harbor City FC,pass,21.3,54.2,0.0
+252,59,37,Harbor City FC,pass,39.6,95.6,0.0
+250,59,40,Harbor City FC,tackle,67.9,27.4,0.0
+254,59,41,Northbridge United,pass,40.8,42.9,0.0
+253,59,51,Harbor City FC,carry,41.2,49.3,0.0
+249,59,59,Northbridge United,shot,5.5,78.0,0.284
+255,60,1,Northbridge United,pass,5.5,98.1,0.0
+258,60,26,Northbridge United,carry,85.5,44.9,0.0
+259,60,34,Harbor City FC,tackle,6.2,78.1,0.0
+260,60,39,Harbor City FC,interception,94.2,43.6,0.0
+257,60,43,Harbor City FC,pass,18.9,40.2,0.0
+256,60,45,Northbridge United,pass,5.3,79.6,0.0
+264,61,16,Northbridge United,pass,32.1,88.5,0.0
+262,61,26,Harbor City FC,pass,62.3,15.8,0.0
+261,61,33,Harbor City FC,interception,93.9,26.5,0.0
+263,61,41,Harbor City FC,pass,59.3,65.5,0.0
+270,62,18,Harbor City FC,pass,21.8,31.1,0.0
+267,62,28,Harbor City FC,shot,99.4,26.1,0.051
+265,62,29,Northbridge United,pass,12.2,43.2,0.0
+268,62,30,Northbridge United,carry,19.9,9.9,0.0
+266,62,43,Northbridge United,pass,3.7,70.8,0.0
+269,62,46,Harbor City FC,pass,48.1,75.5,0.0
+272,63,3,Northbridge United,pass,4.2,82.8,0.0
+275,63,6,Harbor City FC,pass,39.5,46.0,0.0
+274,63,16,Northbridge United,pass,64.6,39.3,0.0
+273,63,33,Northbridge United,pass,9.6,81.8,0.0
+271,63,53,Northbridge United,carry,85.8,64.0,0.0
+278,64,6,Northbridge United,pass,14.6,45.0,0.0
+279,64,11,Harbor City FC,carry,18.8,75.4,0.0
+277,64,45,Harbor City FC,shot,86.4,36.3,0.084
+276,64,54,Northbridge United,pass,77.5,11.1,0.0
+281,65,10,Northbridge United,interception,41.2,74.5,0.0
+283,65,30,Northbridge United,pass,86.1,4.5,0.0
+280,65,36,Harbor City FC,shot,61.5,80.3,0.272
+282,65,47,Northbridge United,pass,99.8,56.7,0.0
+284,65,51,Northbridge United,carry,77.3,31.0,0.0
+287,66,7,Northbridge United,pass,29.5,46.7,0.0
+286,66,19,Harbor City FC,carry,52.7,87.7,0.0
+288,66,20,Harbor City FC,pass,59.8,29.2,0.0
+289,66,44,Harbor City FC,pass,16.4,88.3,0.0
+285,66,52,Northbridge United,tackle,14.1,36.3,0.0
+290,67,24,Northbridge United,tackle,92.4,32.7,0.0
+292,67,41,Northbridge United,pass,11.9,11.8,0.0
+291,67,45,Harbor City FC,pass,24.9,99.9,0.0
+293,67,50,Harbor City FC,pass,38.7,86.2,0.0
+295,68,0,Northbridge United,interception,4.7,25.4,0.0
+294,68,17,Northbridge United,interception,88.3,50.1,0.0
+296,68,37,Northbridge United,carry,4.8,78.9,0.0
+301,69,1,Northbridge United,tackle,45.2,28.9,0.0
+297,69,6,Harbor City FC,pass,43.8,67.6,0.0
+299,69,8,Northbridge United,pass,94.7,24.4,0.0
+300,69,10,Harbor City FC,carry,75.4,22.9,0.0
+298,69,36,Harbor City FC,pass,38.1,99.2,0.0
+302,70,48,Harbor City FC,pass,89.5,3.6,0.0
+303,70,52,Harbor City FC,pass,27.2,19.4,0.0
+304,70,54,Harbor City FC,pass,3.7,34.0,0.0
+305,71,1,Northbridge United,carry,44.6,40.2,0.0
+308,71,12,Harbor City FC,carry,61.2,26.3,0.0
+310,71,17,Harbor City FC,pass,2.2,97.3,0.0
+309,71,35,Northbridge United,foul,38.7,78.1,0.0
+306,71,39,Northbridge United,pass,16.1,66.9,0.0
+307,71,54,Northbridge United,pass,74.3,2.2,0.0
+312,72,10,Harbor City FC,pass,7.5,92.1,0.0
+314,72,11,Northbridge United,tackle,84.7,91.5,0.0
+313,72,37,Northbridge United,tackle,93.5,48.2,0.0
+311,72,42,Northbridge United,shot,45.9,18.9,0.285
+316,73,11,Northbridge United,pass,77.4,28.0,0.0
+315,73,31,Northbridge United,tackle,29.8,25.2,0.0
+319,73,31,Harbor City FC,pass,81.9,95.7,0.0
+317,73,52,Harbor City FC,pass,37.5,94.8,0.0
+318,73,59,Northbridge United,carry,60.8,54.1,0.0
+321,74,16,Northbridge United,carry,23.9,76.5,0.0
+322,74,27,Harbor City FC,pass,22.0,63.5,0.0
+320,74,57,Northbridge United,carry,89.9,74.1,0.0
+323,74,59,Northbridge United,tackle,20.9,28.5,0.0
+326,75,14,Northbridge United,interception,63.9,74.4,0.0
+325,75,33,Harbor City FC,tackle,90.1,27.5,0.0
+324,75,58,Harbor City FC,carry,27.3,20.9,0.0
+328,76,4,Harbor City FC,pass,3.9,85.5,0.0
+330,76,8,Northbridge United,tackle,79.5,79.3,0.0
+329,76,9,Northbridge United,pass,62.1,42.0,0.0
+327,76,51,Northbridge United,pass,74.3,31.6,0.0
+334,77,12,Northbridge United,tackle,23.4,54.1,0.0
+335,77,31,Northbridge United,pass,30.3,89.6,0.0
+332,77,36,Northbridge United,pass,9.3,8.4,0.0
+331,77,45,Northbridge United,pass,29.6,73.0,0.0
+333,77,48,Northbridge United,pass,80.8,11.9,0.0
+339,78,5,Northbridge United,pass,79.1,13.3,0.0
+336,78,9,Northbridge United,interception,93.6,28.3,0.0
+338,78,40,Northbridge United,pass,4.6,75.5,0.0
+340,78,41,Harbor City FC,shot,42.3,24.9,0.316
+337,78,49,Harbor City FC,pass,62.7,97.0,0.0
+341,78,54,Northbridge United,pass,27.8,38.6,0.0
+342,79,30,Northbridge United,pass,64.7,92.2,0.0
+344,79,33,Harbor City FC,tackle,13.5,2.9,0.0
+343,79,49,Northbridge United,pass,66.1,55.9,0.0
+345,80,31,Northbridge United,pass,94.1,96.6,0.0
+346,80,38,Northbridge United,pass,72.1,16.0,0.0
+348,80,40,Harbor City FC,carry,36.9,82.6,0.0
+347,80,42,Northbridge United,tackle,86.8,25.5,0.0
+349,81,22,Harbor City FC,pass,93.9,6.5,0.0
+350,81,55,Harbor City FC,carry,67.9,12.6,0.0
+351,81,56,Harbor City FC,tackle,15.7,63.5,0.0
+354,82,10,Northbridge United,carry,35.3,21.8,0.0
+352,82,48,Harbor City FC,pass,51.0,74.7,0.0
+353,82,55,Northbridge United,carry,82.0,19.5,0.0
+356,83,4,Northbridge United,carry,35.8,10.8,0.0
+357,83,17,Northbridge United,carry,94.2,34.1,0.0
+355,83,33,Northbridge United,pass,30.1,10.6,0.0
+359,84,28,Harbor City FC,shot,38.4,20.8,0.348
+360,84,30,Northbridge United,tackle,47.6,22.2,0.0
+358,84,40,Northbridge United,carry,23.2,91.8,0.0
+361,84,57,Harbor City FC,tackle,79.5,82.4,0.0
+362,85,7,Harbor City FC,carry,20.8,75.6,0.0
+364,85,13,Harbor City FC,pass,72.4,43.8,0.0
+365,85,32,Northbridge United,foul,10.4,93.5,0.0
+366,85,40,Harbor City FC,pass,42.8,0.8,0.0
+363,85,48,Harbor City FC,carry,87.2,34.6,0.0
+368,86,5,Harbor City FC,pass,53.0,7.8,0.0
+371,86,14,Northbridge United,pass,56.3,25.5,0.0
+372,86,29,Northbridge United,tackle,28.4,54.1,0.0
+369,86,43,Northbridge United,shot,86.8,73.6,0.235
+370,86,46,Harbor City FC,shot,51.7,52.8,0.059
+367,86,50,Northbridge United,carry,18.9,32.7,0.0
+373,87,11,Northbridge United,pass,28.5,53.6,0.0
+374,87,29,Harbor City FC,shot,29.9,85.4,0.171
+375,87,33,Northbridge United,carry,15.4,96.3,0.0
+379,88,7,Northbridge United,carry,62.4,80.8,0.0
+376,88,9,Northbridge United,pass,23.5,57.8,0.0
+377,88,10,Northbridge United,pass,7.4,68.8,0.0
+378,88,41,Northbridge United,pass,42.2,48.4,0.0
+380,88,46,Northbridge United,interception,41.2,60.2,0.0
+381,88,51,Northbridge United,pass,82.5,62.7,0.0
+382,89,5,Northbridge United,pass,62.8,53.5,0.0
+385,89,28,Northbridge United,pass,98.6,34.6,0.0
+384,89,43,Northbridge United,tackle,24.0,90.3,0.0
+383,89,57,Northbridge United,tackle,15.6,73.0,0.0
+387,90,1,Harbor City FC,carry,43.4,62.4,0.0
+391,90,23,Northbridge United,interception,10.6,20.2,0.0
+386,90,31,Northbridge United,carry,74.5,85.4,0.0
+389,90,37,Northbridge United,pass,6.1,72.8,0.0
+390,90,45,Harbor City FC,pass,93.0,43.1,0.0
+388,90,48,Harbor City FC,pass,73.6,0.8,0.0
