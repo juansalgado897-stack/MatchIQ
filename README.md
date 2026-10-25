@@ -53,6 +53,33 @@ MatchIQ is a prototype developed for the Inside the Game Developer Hackathon.
 - Groq API (OpenAI-compatible interface)
 - GitHub for version control and collaboration
 
+- ## Microsoft Foundry Local Integration
+
+MatchIQ includes an optional, independently tested Microsoft Foundry Local integration that demonstrates local AI inference for football analytics.
+
+The integration uses:
+- Microsoft Foundry Local CLI and local inference server
+- Qwen3 0.6B CPU model
+- Python with the OpenAI-compatible API
+- Synthetic football match statistics
+
+### Run the Local Demo
+
+1. Install Microsoft Foundry Local and Python dependencies.
+2. Download and load the `qwen3-0.6b-generic-cpu` model.
+3. Start the Foundry Local server.
+4. Run:
+
+```bash
+python foundry_demo.py
+```
+
+The script automatically discovers the local server address, sends synthetic MatchIQ statistics to the model, and prints its response.
+
+**Verified result:** The model correctly identified Northbridge United as having higher simulated xG (2.527 versus 1.967).
+
+**Deployment note:** Microsoft Foundry Local runs on the developer's computer. The publicly hosted Streamlit application uses Groq for its AI-powered narratives. The Foundry Local demonstration is a separate, reproducible integration and is not part of the hosted application's runtime.
+
 ### Live Demo
 https://matchiq-football.streamlit.app/
 
